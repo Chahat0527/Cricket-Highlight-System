@@ -29,5 +29,5 @@ This project automatically detects important cricket match events like **Four, S
 
 ## 👩‍💻 Author
 
-Chahat Sharma R
+Chahat Sharma R,
 Final Year BE ECE
